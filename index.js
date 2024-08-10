@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Bizi tercih ettiğiniz için teşekkürler!","HexStore"];
 
 
 let currentIndex = 0;
