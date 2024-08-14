@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bizi tercih ettiğiniz için teşekkürler!","HexStore"];
+const statusMessages = ["Ürünler için /shop","https://hexstore.shop"];
 
 
 let currentIndex = 0;
